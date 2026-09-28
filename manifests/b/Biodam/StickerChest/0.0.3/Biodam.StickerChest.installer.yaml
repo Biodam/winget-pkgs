@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.12.13.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+
+PackageIdentifier: Biodam.StickerChest
+PackageVersion: 0.0.3
+InstallerType: nullsoft
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/Biodam/StickerChest/releases/download/v0.0.3/Sticker.Chest.Setup.0.0.3.exe
+  InstallerSha256: EFDACA239E6097219BA5DA1EA77A59BD31C6CC8E18674F8D4F86DEC057150EF4
+ManifestType: installer
+ManifestVersion: 1.12.0

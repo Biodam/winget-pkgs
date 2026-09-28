@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.12.13.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Biodam.StickerChest
+PackageVersion: 0.0.3
+PackageLocale: en-US
+Publisher: Biodam
+PackageName: Sticker Chest
+License: MIT
+Copyright: Copyright © 2026 Sticker Chest
+ShortDescription: Sticker and GIF manager with instant clipboard auto-paste
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
